@@ -65,7 +65,7 @@ body::-webkit-scrollbar {
     width: auto;
     max-width: 45%;
     height: 10%;
-    background: rgba(23, 23, 23, 90%);
+    background: #dc8514;
     color: white;
     margin: auto;
     position: relative;
